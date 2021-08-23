@@ -1,4 +1,4 @@
-# ✨ Site View ✨
+# [✨ Site View ✨](https://strawberryoolongtea.github.io/starbucks/)
 
 # Starbucks site
 
