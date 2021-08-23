@@ -1,1 +1,5 @@
-# Starbucks
+# ✨ Site View ✨
+
+# Starbucks site
+
+## Starbucks 사이트 클론코딩
